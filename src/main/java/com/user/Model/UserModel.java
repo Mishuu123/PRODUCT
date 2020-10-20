@@ -1,10 +1,10 @@
-package com.product.Model;
+package com.user.Model;
 
 import java.util.List;
 
-import com.product.Entity.Address;
-import com.product.Entity.Feedback;
-import com.product.Helper.UserType;
+import com.user.Entity.Address;
+import com.user.Entity.Feedback;
+import com.user.Helper.UserType;
 
 public class UserModel {
 

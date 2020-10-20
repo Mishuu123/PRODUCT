@@ -1,6 +1,6 @@
-package com.product.Model;
+package com.user.Model;
 
-import com.product.Entity.User;
+import com.user.Entity.User;
 
 public class FeedbackModel extends BaseModel {
 

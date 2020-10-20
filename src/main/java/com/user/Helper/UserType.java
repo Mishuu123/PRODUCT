@@ -1,4 +1,4 @@
-package com.product.Helper;
+package com.user.Helper;
 
 public enum UserType {
 

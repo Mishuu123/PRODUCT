@@ -1,4 +1,4 @@
-package com.product.Mapper;
+package com.user.Mapper;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;

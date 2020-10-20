@@ -1,4 +1,4 @@
-package com.product.Model;
+package com.user.Model;
 
 public class BaseModel {
 

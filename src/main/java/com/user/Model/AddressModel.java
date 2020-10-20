@@ -1,4 +1,4 @@
-package com.product.Model;
+package com.user.Model;
 
 import javax.validation.constraints.NotEmpty;
 import javax.validation.constraints.NotNull;

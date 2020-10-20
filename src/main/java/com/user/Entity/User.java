@@ -1,4 +1,4 @@
-package com.product.Entity;
+package com.user.Entity;
 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
@@ -13,7 +13,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.OneToOne;
 import javax.persistence.Table;
 
-import com.product.Helper.UserType;
+import com.user.Helper.UserType;
 
 @Entity	
 @Table(name="USER")
